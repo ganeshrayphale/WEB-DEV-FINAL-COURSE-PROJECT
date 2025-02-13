@@ -1,0 +1,213 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.top-menu {
+    background-color: #233f91;
+    color: white;
+    padding: 10px 0;
+}
+
+.top-menu ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.top-menu ul li {
+    display: inline;
+    margin: 0 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    display: flex;
+    padding: 20px;
+}
+
+.sidebar {
+    width: 25%;
+    background-color: #3a8d61;
+    padding: 20px;
+    color: white;
+}
+
+.sidebar .menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar .menu ul li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #2f7350;
+    cursor: pointer;
+}
+
+.annual-report {
+    background-color: #f5c16c;
+    padding: 15px;
+    text-align: center;
+}
+
+main {
+    width: 75%;
+    padding: 20px;
+    background-color: white;
+}
+
+.filter {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #800000;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    background-color: #233f91;
+    color: white;
+}
+.spons{
+background-color: #f2f3f6;
+height: 100px;
+width: 100%;
+}
+.spon1{
+    color: #233f91;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spon-div1{
+    background-image: url(./image\ copy.png);
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.spon-div2{
+    background-image: url(./image\ copy\ 2.png);
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.spon-div3{
+    background-image: url(./image\ copy\ 5.png);
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.spon-div4{
+    background-image: url(./image\ copy\ 6.png);
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.spon-div5{
+    background-image: url(./image\ copy\ 7.png);
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.spon2{
+    margin-top: 20px;
+    color: #233f91;
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1{
+    background-image: url(./image\ copy\ 8.png);
+    height: 120px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.div2{
+    background-image: url(./image\ copy\ 9.png);
+    height: 120px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.div3{
+    background-image: url(./image\ copy\ 10.png);
+    height: 120px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.div4{
+    background-image: url(./image\ copy\ 11.png);
+    height: 120px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.div5{
+    background-image: url(./image\ copy\ 12.png);
+    height: 120px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.div6{
+    background-image: url(./image\ copy\ 13.png);
+    height: 120px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.div7{
+    background-image: url(./image\ copy\ 14.png);
+    height: 120px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
