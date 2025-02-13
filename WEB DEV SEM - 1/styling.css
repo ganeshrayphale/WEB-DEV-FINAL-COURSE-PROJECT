@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -73,4 +74,81 @@ body{
 }
 #annualRep:hover{
     transform: scale(1.03);
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(250, 235, 215, 0.785);
+}
+#news{
+    padding: 30px;
+    border-radius: 30px;
+    float: left;
+    background-color: rgb(68, 97, 228);
+    margin: 20px;
+    margin-top: 40px;
+    width: 500px;
+    height: 500px ;
+}
+#newsList li a{
+    list-style: none;
+    font-style: normal;
+    color: #c1cfd4;
+    text-decoration: none;
+}
+#newsLink{
+    transition: transform 0.2s;
+}
+#newsLink:hover{
+    transform: scale(1.05);
+
+}
+#moments {
+    padding: 30px;
+    border-radius: 30px;
+    float: right;
+    background-color: rgb(228, 161, 68);
+    margin: 20px;
+    margin-top: 40px;
+    width: 750px;
+    height: 500px;
+}
+#newsList li a{
+    list-style: none;
+    font-style: normal;
+    color: #c1cfd4;
+    text-decoration: none;
+}
+#achList li a{
+ 
+        list-style: none;
+        font-style: normal;
+        color: #000000;
+        text-decoration: none;
+    }
+#achLink{
+    transition: transform 0.2s;
+    font-size: larger;
+}
+#achLink:hover{
+    transform: scale(1.05);
+}
+#nsdfLink{
+    transition: transform 0.2s;
+}
+#nsdfLink:hover{
+    transform: scale(1.05);
+}
+#annualRep{
+    border-radius: 30px;
+    background-color: rgb(148, 219, 203);
+    transition: transform 0.2s;
+    
+}
+#annualRep:hover{
+    transform: scale(1.03);
+>>>>>>> bea47142b2a46757da27808ef98cf0d902c4bc57
 }
